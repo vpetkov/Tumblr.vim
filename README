@@ -1,0 +1,3 @@
+Vim plugin for publishing to Tumblr.
+
+A simple implementation on Python of the Tumblr API. Currently set to post regular posts. Uncomment the group line to send to secondary blogs.
